@@ -80,7 +80,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  patent:
     title: 'US PATENT'
 
 # Site Settings
