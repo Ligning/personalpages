@@ -13,11 +13,10 @@ Education
 * M.S. in Mechatronics Engineering, XiDian University, 2022--2025, GPA: 3.72/5.0
 * B.S. in Mechatronics Engineering, SouthWest Petroleum University, 2018--2022, GPA: 3.71/4.0
 
-Work experience
+RESEARCH PROJECT
 ======
 * 04/2023--03/2025: AIntegrated Design Technology for Metal Reflector Mesh Materials of Antennas
 * Duties includes:
-
    Establish the geometric model of wire mesh.
    Realise the mechanical property analysis of wire mesh.
    Realise the electromagnetic property analysis of wire mesh
