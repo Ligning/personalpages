@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,8 +17,10 @@ Work experience
 ======
 * 04/2023--03/2025: AIntegrated Design Technology for Metal Reflector Mesh Materials of Antennas
 * Duties includes: Establish the geometric model of wire mesh.
-                     Realise the mechanical property analysis of wire mesh
-                     Realise the electromagnetic property analysis of wire mesh
+                     
+                   Realise the mechanical property analysis of wire mesh
+
+                   Realise the electromagnetic property analysis of wire mesh
   
 Skills
 ======
