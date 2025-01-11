@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mechatronics Engineering, XiDian University, 2022--2025, GPA: 3.72/5.0
+* B.S. in Mechatronics Engineering, SouthWest Petroleum University, 2018--2022, GPA: 3.71/4.0
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2023--03/2025: AIntegrated Design Technology for Metal Reflector Mesh Materials of Antennas
+  * Duties includes: Establish the geometric model of wire mesh.
+                     Realise the mechanical property analysis of wire mesh
+                     Realise the electromagnetic property analysis of wire mesh
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C++,MATLAB
+* Business Software: CST,ANSYS
 
-Publications
+HONORS AND AWARDS
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+National Encouragement scholarship(CHINA), 11/2020
+National scholarship(CHINA), 11/2024
