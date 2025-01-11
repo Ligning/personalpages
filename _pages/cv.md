@@ -28,5 +28,5 @@ Skills
 
 Honors
 ======
-* National Encouragement scholarship(CHINA), 11/2020
-* National scholarship(CHINA), 11/2024
+* National Encouragement Scholarship(CHINA), 11/2020
+* National Scholarship(CHINA), 11/2024
