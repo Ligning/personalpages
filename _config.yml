@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "face.png"
+  avatar           : "./face.png"
   name             : "Li Zhuolin"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "SICHUAN CHINA"
   # employer         : "Red Brick University"
-  uri              : https://ligning.github.io/personalpages/
+  # uri              : https://ligning.github.io/personalpages/
   email            : "22041212694@stu.xidian.edu.cn" 
 
   # Academic websites
