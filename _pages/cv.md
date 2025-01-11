@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 04/2023--03/2025: AIntegrated Design Technology for Metal Reflector Mesh Materials of Antennas
-  Duties includes: Establish the geometric model of wire mesh.
+* Duties includes: Establish the geometric model of wire mesh.
                      Realise the mechanical property analysis of wire mesh
                      Realise the electromagnetic property analysis of wire mesh
   
@@ -28,5 +28,5 @@ Skills
 
 HONORS AND AWARDS
 ======
-*National Encouragement scholarship(CHINA), 11/2020
-*National scholarship(CHINA), 11/2024
+* National Encouragement scholarship(CHINA), 11/2020
+* National scholarship(CHINA), 11/2024
