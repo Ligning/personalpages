@@ -3,6 +3,4 @@ title: "Li, Z., Zhang, H., Li, Y., Wu, X., Tan, Z., Qin, Q., & Zhang, Y. (2024).
 collection: publications
 category: manuscripts
 permalink: https://arc.aiaa.org/doi/10.2514/1.J063784
-date: 2024-1-30
-venue: 'AIAA Journal'
 ---
