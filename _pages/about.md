@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Li Zhuolin, a master’s student at Xidian University. I am look forward to an opportunity of joining a research group as a PhD student. I am interested in Mechanical engineering and Electrical & Computer Engineering. I want to do something new, I want to challange something new.
+I am Li Zhuolin, a master’s student at Xidian University. I am look forward to an opportunity of joining a research group as a PhD student. I am interested in Mechanical engineering.
 
 News
 ======
